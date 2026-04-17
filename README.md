@@ -2,8 +2,6 @@
 
 First commit _Daniil
 
-Yamini Ravi_100006007
-
 Meenakshy Kattungal Roshan (100006980) 
 
 Subahan Talamarla (100004953)
@@ -15,5 +13,10 @@ Sivamani kumar Velpula\_100005998
 Rajdeep Saha 10000570
 
 Yash_100007325 
+
+Viraj_Harsora 100007510
+
+
+Nishchitha_100007030
 
 Viraj_Harsora 100007510
